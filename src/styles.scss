@@ -1,0 +1,9 @@
+@import "../node_modules/bulma/sass/utilities/initial_variables";
+@import "../node_modules/bulma/sass/utilities/functions";
+
+
+$blue: #0077b5;
+
+.navbar-item {
+  $blue;
+}
