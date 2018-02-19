@@ -104,6 +104,7 @@
   <p>
     <strong>Boston Red Sox</strong> <br><small>AL East</small><small>  (52-74)</small>
     <br>
+    <message title="bio" body="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa fringilla egestas. Nullam condimentum luctus turpis."></message>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa fringilla egestas. Nullam condimentum luctus turpis.
   </p>
 </div>
@@ -132,8 +133,8 @@ export default {
 
 
 <style lang="sass">
-  @import '../node_modules/bulma/bulma.sass'
-  @import 'mq'
+  //@import '../node_modules/bulma/bulma.sass'
+  //@import 'mq'
 
 
 </style>
